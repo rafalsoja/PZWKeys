@@ -1,0 +1,9 @@
+## Interface: 70300
+## Title: |cff00aeefPZW|r |cffffd100Keys|r
+## Notes: Simple M+ helper.
+## Version: 0.1
+## Author: Ruszczka-evermoon
+
+PZWKeys.lua
+PZWAutoKeystone.lua
+PZWKeysExtraButtons.lua
